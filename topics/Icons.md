@@ -35,6 +35,7 @@
 * [Hybrid SVG icons](http://hybicon.softwaretailoring.net/)
 * [sprite.sh](https://github.com/edenspiekermann/sprite.sh)
 * [svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection DONE RIGHT
+* [IconPharm](https://iconpharm.com/) - popular open source icon packs + icon tools
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
