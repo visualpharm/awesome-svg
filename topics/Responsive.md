@@ -12,6 +12,7 @@
 * [Responsive Logos, Part 2: Making Logos Truly Responsive with Inline SVG](http://viget.com/inspire/responsive-logos-part-2-making-logos-truly-responsive-with-svg)
 * [Design the Web: Responsive SVG Images - Lynda Course](http://www.lynda.com/CSS-tutorials/Design-Web-Responsive-SVG-Images/366454-2.html)
 * [Responsive Logo Composition With SVG](http://blog.cloudfour.com/responsive-logo-composition-with-svg/)
+* [50 Free Responsive Icons](https://icons8.com/responsive-icons)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

@@ -6,6 +6,7 @@
 * [Gulp-svg-sprites](https://www.npmjs.org/package/gulp-svg-sprites/)
 * [Gulp-svgmin](https://www.npmjs.org/package/gulp-svgmin/)
 * [Gulp-svgstore](https://github.com/w0rm/gulp-svgstore)
+* [Gulp-svg-sprites](https://github.com/shakyShane/gulp-svg-sprites)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
