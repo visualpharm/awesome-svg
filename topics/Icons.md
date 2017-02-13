@@ -29,12 +29,13 @@
 * [Making SVG buttons](http://metafizzy.co/blog/making-svg-buttons/)
 * [1450 premium SVG icons for free](http://www.iconeden.com/smarticons/index.html)
 * [SVG Sprites and Icon Systems are super](https://lincolnloop.com/blog/svg-sprites-and-icon-systems-are-super/)
-* [Sistemas de Icones em SVG](http://willianjusten.com.br/sistemas-de-icones-em-svg/) - Pt-Br
+* [Sistemas de Icones em SVG](http://willianjusten.com.br/sistemas-de-icones-em-svg/) (in Portuguese)
 * [Por que parei de utilizar ícones como fontes](https://medium.com/@devinterior/por-que-parei-de-utilizar-%C3%ADcones-como-fontes-3ee74d34cf4) - Pt-Br
 * [Glyph Smarticons](http://glyph.smarticons.co/)
 * [Hybrid SVG icons](http://hybicon.softwaretailoring.net/)
 * [sprite.sh](https://github.com/edenspiekermann/sprite.sh)
 * [svg-icon](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection DONE RIGHT
+* [We Love SVG](https://icons8.com/welovesvg) - Quick way to insert SVG icons using Webicon module
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)

@@ -13,6 +13,8 @@
 * [svg-icon](http://leungwensen.github.io/svg-icon/) - Select and download SVG icons as SVG symbol sprite file from over 4,000 SVG icons transformed from icon fonts collections.
 * [Pixebay](https://pixabay.com/) - International website for sharing high quality public domain photos, illustrations, vector graphics, and film footage.
 * [Loading.io](http://loading.io/) - Build Your Ajax Loading Icons with SVG/CSS/GIF.
+* [Iconpharm] (https://iconpharm.com/) - 9000 open source icons in SVG/CSS/PNG in any color.
+* [Sleek Logos] (https://sleeklogos.design/) - IT logos in icon size format in SVG.
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-svg)
